@@ -16,8 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhay kanwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kanwasi" height="30" width="40" /></a>
-<a href="https://instagram.com/@abhay_write" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@abhay_write" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhay kanwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhay kanwasi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18101033/abhay-kanwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18101033/abhay-kanwasi" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/abhaykanwasi/home?isediting=false&verifyphone=false" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhaykanwasi/home?isediting=false&verifyphone=false" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/abhay_write/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhay_write/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/djoker682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/djoker682" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/djoker682/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/djoker682/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
