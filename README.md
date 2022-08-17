@@ -30,9 +30,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Coder001&show_icons=true&theme=radical)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=Basic-Python-Programs" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=GoDOT" />
+
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=Basic-Program-Python" />
-</a>
+
 
