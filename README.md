@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python,Django,MySQL**
 
-- 💬 Ask me about **Python,C**
+- 💬 Ask me about **Python,C,Javascript**
 
 - 📫 How to reach me **abhaykanwasi123@gmail.com**
 
@@ -32,6 +32,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=GoDOT" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=Basic-Python-Programs" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=Basic-Program-Python" />
 </a>
+
