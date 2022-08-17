@@ -22,6 +22,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/djoker682/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/djoker682/" height="30" width="40" /></a>
 </p>
 
+<br />
 
 ## Languages & Technologies
 
@@ -36,8 +37,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
+<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-coder001&show_icons=true&locale=en&layout=compact" alt="abhay-coder001" /></p>
+
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Coder001&show_icons=true&theme=radical)
 
