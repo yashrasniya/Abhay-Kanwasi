@@ -27,8 +27,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-coder001&show_icons=true&locale=en&layout=compact" alt="abhay-coder001" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Coder001)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Coder001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Coder001&show_icons=true&theme=radical)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=GoDOT" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-status">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=Basic-Python-Programs" />
+</a>
