@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **abhaykanwasi123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 
 
 <br />
