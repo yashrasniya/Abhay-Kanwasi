@@ -6,21 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Django,MySQL**
+- 🌱 I’m currently learning **Javascript,Django,MySQL**
 
-- 💬 Ask me about **Python,C,Javascript**
+- 💬 Ask me about **Python,C,C++,Godot**
 
 - 📫 How to reach me **abhaykanwasi123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhay kanwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kanwasi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18101033/abhay-kanwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18101033/abhay-kanwasi" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/abhaykanwasi/home?isediting=false&verifyphone=false" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhaykanwasi/home?isediting=false&verifyphone=false" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abhay_write/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhay_write/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/djoker682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/djoker682" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/djoker682/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/djoker682/" height="30" width="40" /></a>
-</p>
+
 
 <br />
 
@@ -38,16 +31,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 <br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-coder001&show_icons=true&locale=en&layout=compact" alt="abhay-coder001" /></p>
-
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Coder001&show_icons=true&theme=radical)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=Basic-Python-Programs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Coder001&repo=GoDOT" />
-</a>
-
 
