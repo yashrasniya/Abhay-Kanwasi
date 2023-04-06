@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T07:44:36.391Z" agent="5.0 (Windows)" version="21.0.8" etag="aBH5Hun26SnJ5pl0Xh3N" type="github"><diagram name="Page-1" id="ccb-cQWHU46zXR0AhaRt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-06T08:37:18.787Z" agent="5.0 (Windows)" etag="DvyMJ-DPJukSx5BjGRin" version="21.0.8" type="github">
+  <diagram name="Page-1" id="ccb-cQWHU46zXR0AhaRt">
+    <mxGraphModel dx="1418" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-1" target="oVi_PDwk5js5EuQrQIjU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-2" target="oVi_PDwk5js5EuQrQIjU-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="310" />
+              <mxPoint x="130" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.385;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-2" target="oVi_PDwk5js5EuQrQIjU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-2" target="oVi_PDwk5js5EuQrQIjU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-2" target="oVi_PDwk5js5EuQrQIjU-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="310" />
+              <mxPoint x="710" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-2" value="&lt;div&gt;Technical &lt;br&gt;&lt;/div&gt;&lt;div&gt;Coordinator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-3" target="oVi_PDwk5js5EuQrQIjU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="460" />
+              <mxPoint x="220" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-3" target="oVi_PDwk5js5EuQrQIjU-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="460" />
+              <mxPoint x="425" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-3" target="oVi_PDwk5js5EuQrQIjU-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="460" />
+              <mxPoint x="630" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.38;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oVi_PDwk5js5EuQrQIjU-3" target="oVi_PDwk5js5EuQrQIjU-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="460" />
+              <mxPoint x="786" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-3" value="&lt;div&gt;Agni&lt;/div&gt;&lt;div&gt;Mohit Singh(CSE)&lt;br&gt;&lt;/div&gt;&lt;div&gt;,Abhishek Upreti(ME)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-4" value="&lt;div&gt;Vayu&lt;/div&gt;&lt;div&gt;Vansh Sharma(EE)&lt;/div&gt;&lt;div&gt;Kartavaya Ray(ECE)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-5" value="&lt;div&gt;Neer&lt;/div&gt;&lt;div&gt;Neeraj Singh(CE)&lt;/div&gt;&lt;div&gt;Mudit Baloni(CSE)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-6" value="&lt;div&gt;Prithvi&lt;/div&gt;&lt;div&gt;Anurag Bisht(ECE)&lt;/div&gt;&lt;div&gt;Marisha (CE)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-8" value="&lt;div&gt;CSE Branch Coordinator&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Abhay Kanwasi,&lt;/div&gt;&lt;div&gt;Himashu Bisht&lt;br&gt;&lt;/div&gt;(CSE)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="500" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-9" value="&lt;div&gt;EE Branch Coordinator&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Vansh Sharma(EE)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="500" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-10" value="CE Branch Coordinator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="500" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-11" value="&lt;div&gt;ME Branch Coordinator&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sachin mewar,&lt;/div&gt;&lt;div&gt;Dhurv pal &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="500" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-12" value="&lt;div&gt;ECE Branch Coordinator&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vijay&lt;/div&gt;&lt;div&gt;Ritika Chauhan&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="500" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-13" value="DSW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309.76" y="460" as="sourcePoint" />
+            <mxPoint x="309.76" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.76" y="460" as="sourcePoint" />
+            <mxPoint x="509.76" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVi_PDwk5js5EuQrQIjU-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="460" as="sourcePoint" />
+            <mxPoint x="720" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
